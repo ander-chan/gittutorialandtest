@@ -1,0 +1,16 @@
+{
+    "name": "medicamecanica/git_tutorial",
+    "description": "Git tutorial manage branch and tags \"descriptibily\"",
+    "type": "project",
+    "require": {
+        "erusev/parsedown": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andersson Paz",
+            "email": "love.rem.saverem@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
