@@ -20,15 +20,13 @@
 		</div>
 		<div class="row">
 			<div class="offset-md-1 col col-md-8">
-				<div class="card text-white bg-primary mb-3" style="max-width: 18rem;">
+				<div class="card text-white bg-success mb-3" style="max-width: 18rem;">
 				 <div class="card-header">Card</div>
 				    <ul class=" list-group list-group-flush">
-							<li class="bg-primary list-group-item">run</li>
-							<li class="bg-primary list-group-item">test</li>
-							
+							<li class="bg-successlist-group-item">debug</li>
 						  </ul>
 					<div class="card-body">
-						Version 2.1
+						Version 2.2
 					</div>
 					
 				</div>
