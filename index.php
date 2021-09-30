@@ -30,6 +30,7 @@
 					<div class="card-body">
 						Version 2.2
 						<p>Yhea!!</p>
+						<p>ohh no!!</p>
 					</div>
 					
 				</div>
